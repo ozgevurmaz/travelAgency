@@ -5,6 +5,10 @@ A travel Agency website is an online platforms that allows users to view all tou
 ## Build with,
 👉 React JS
 👉 Tailwind CSS
+👉 React Router Dom
+👉 ScrollReveal
+👉 Formik
+👉 Yup
 
 ## Here are some ScreenShots 
 
