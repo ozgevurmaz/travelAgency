@@ -31,7 +31,7 @@ export default {
       },
       backgroundImage: {
         'img1': "url('https://images.pexels.com/photos/691919/pexels-photo-691919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')",
-        'img4': "url('src/assets/img4.jpg')",
+        'img4': "url('https://images.pexels.com/photos/417344/pexels-photo-417344.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')",
       },
     },
     screens: {
