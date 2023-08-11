@@ -24,7 +24,7 @@ function TourPackages() {
 
   return (
     <div>
-      <div className="w-full bg-img2 bg-cover pt-44 pb-16">
+      <div className="w-full bg-img4 bg-cover pt-44 pb-16">
         <div className="text-center">
           <h1 className="text-5xl font-header font-bold text-red-50">
             All Tours
