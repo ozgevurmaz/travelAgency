@@ -20,7 +20,7 @@ export default {
       backgroundImage: {
         img1: "url('https://images.pexels.com/photos/691919/pexels-photo-691919.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')",
         img2: "url('https://images.pexels.com/photos/4321802/pexels-photo-4321802.jpeg?auto=compress&cs=tinysrgb&w=1200')",
-        img3: "url('https://images.pexels.com/photos/21014/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2')",
+        img3: "url('/public/bg-3.jpeg')",,
       },
     },
     screens: {
