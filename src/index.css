@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  .react-tel-input .form-control {
+    border: 1px solid none !important;
+    width: stretch !important;
+}
