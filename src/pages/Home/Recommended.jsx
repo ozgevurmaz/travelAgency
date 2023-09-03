@@ -79,7 +79,7 @@ const Recommended = () => {
                   type="submit"
                   text="Book Now!"
                   otherStyles="flex px-4 py-3 bg-purple-300 rounded-lg text-purple-800 hover:bg-inherit transition duration-200 hover:text-purple-300 hover:ease-in"
-                  handleClick={formOpenHandler}
+                  handleClick={()=>{}}
                 />
 
                 <p className="flex flex-col items-center justify-center">
