@@ -60,8 +60,7 @@ function Cards({ toursData }) {
               country={tour.country}
               duration={tour.duration}
               price={tour.price_euro}
-              onClick={()=>{}}</SingleCard>
-            />
+              onClick={()=>{}}/>
           ))}
         </div>
       </div>
